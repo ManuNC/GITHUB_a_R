@@ -41,8 +41,3 @@
 # 6- Pulsar "Pull" flecha celeste hacia abajo, esto permite a R estudio descargar el ultimo archivo trabajado en GitHub
 # 7.a- Ver si los archivos descargados estan en el repositorio local
 # 7.b- Ver si los archivos modificados descargados, estan en el repositorio local.
-
-
-
-
- 
